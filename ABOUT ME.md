@@ -1,0 +1,9 @@
+- ✩₊˚.⋆☾⋆⁺₊✧｡˚○♡ About me  ｡˚○♡✩₊˚.⋆☾⋆⁺₊✧
+- 👋 Hi, I’m @kirstymow
+- 🎓 I'm currently studying Data Science, Data Engineering, and NLP in AI at UAL.
+- 💼 I'm looking for a role in tech, particularly as a Trend Analyst, Market Research Analyst, AI Fashion Trend Analyst, or Social Media Trend Analyst.
+- 🎵 I have a strong interest in fashion, gaming, music, and social media.
+- 📧 You can reach me at kirstymow@gmail.com.
+- 📸 Instagram: @kirstymow
+- 👩‍💼 Pronouns: she/her
+- ⚡ Fun fact: I've climbed and done the tallest zipline in the Caribbean!
