@@ -1,42 +1,58 @@
-# Hi, I'm Kirsty 👋🏽
+# 💻 Kirsty Mowatt – Data Portfolio
 
-I'm an aspiring Python developer with a creative background, building projects around music, data, and interactive ideas.
+Hi, I’m Kirsty 👋
+I’m a data enthusiast specialising in **Python, APIs, and data visualisation**.
 
----
-
-## About Me
-- 🎓 Studied Data Science & NLP at UAL (Creative Computing Institute)
-- 🧠 Completed projects in data analysis, visualisation, and creative coding
-- 🌱 Currently learning Python through hands-on portfolio projects
-- 🎯 Working towards a career in tech (data / AI / creative tech)
+I build projects around **music, fashion, and real-world data insights** — combining creativity with technical skills.
 
 ---
 
-## What I've Worked On (Course)
-- Data analysis and visualisation projects
-- Natural Language Processing basics
-- Creative coding experiments
-- Working with datasets and extracting insights
+## 🚀 Featured Projects
+
+### 📊 Global Suicide Rate Analysis
+
+Exploring global suicide trends using data analysis and visualisation.
+
+* Data cleaning & exploration
+* Trend analysis across countries
+* Visual insights using Python
+
+🔗 View Project: https://github.com/YOUR-USERNAME/global-suicide-rate-analysis
 
 ---
 
-## Current Projects
-- 🎵 Music Mood Recommender (Python)
-- 🎮 Python mini games (in progress)
-- 📊 Music data visualisation (coming soon)
+### 👗 Fashion Chatbot
+
+A chatbot that gives fashion recommendations based on user input.
+
+* Python-based logic
+* Interactive user input
+* Beginner NLP concepts
+
+🔗 View Project: https://github.com/YOUR-USERNAME/fashion-chatbot
 
 ---
 
-## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🎧 Music Data API Project *(Coming Soon)*
+
+A data-driven app using APIs to analyse music trends and user behaviour.
+
+* API integration
+* Data visualisation
+* Real-time insights
 
 ---
 
-## Connect with me
-- LinkedIn: [https://www.linkedin.com/in/kirsty-mowatt/]
+## 🛠️ Skills
+
+* Python (Pandas, NumPy, Matplotlib)
+* APIs & Data Handling
+* Data Visualisation
+* Web Scraping (Beginner)
+
+---
+
+## 📫 Contact
+
+* Email: your email here
+* GitHub: https://github.com/YOUR-USERNAME
