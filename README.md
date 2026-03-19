@@ -1,4 +1,4 @@
-# 💻 Kirsty Mowatt – Data Portfolio
+# 💻 Kirsty Mowatt
 
 Hi, I’m Kirsty 👋
 I’m a data enthusiast specialising in **Python, APIs, and data visualisation**.
