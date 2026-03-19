@@ -17,7 +17,7 @@ Exploring global suicide trends using data analysis and visualisation.
 * Trend analysis across countries
 * Visual insights using Python
 
-🔗 View Project: https://github.com/YOUR-USERNAME/global-suicide-rate-analysis
+🔗 View Project: https://github.com/kirstymow/global-suicide-rate-analysis
 
 ---
 
@@ -29,7 +29,7 @@ A chatbot that gives fashion recommendations based on user input.
 * Interactive user input
 * Beginner NLP concepts
 
-🔗 View Project: https://github.com/YOUR-USERNAME/fashion-chatbot
+🔗 View Project: https://github.com/kirstymow/fashion-chatbot
 
 ---
 
@@ -54,5 +54,5 @@ A data-driven app using APIs to analyse music trends and user behaviour.
 
 ## 📫 Contact
 
-* Email: your email here
-* GitHub: https://github.com/YOUR-USERNAME
+* Email: kirstymow@gmail.com
+* GitHub: https://github.com/kirstymow
